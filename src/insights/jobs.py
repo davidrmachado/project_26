@@ -15,6 +15,7 @@ def read(path: str) -> List[Dict]:
     -------
     list
         List of rows as dicts
+        iniciando projeto
     """
     raise NotImplementedError
 
